@@ -10,7 +10,7 @@ const Home = () => {
     <div className="space-y-16 py-10">
       <HeroSection />
       <StatsSection />
-      <ServicesSection />
+      {/* <ServicesSection /> */}
       <NGOSection />
       <Testimonials />
       <CTASection />

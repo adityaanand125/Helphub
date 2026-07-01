@@ -2,9 +2,9 @@ import { Link } from 'react-router-dom'
 
 const donateTypes = [
   { label: 'Food Donation', href: '/donate/food' },
-  { label: 'Blood Donation', href: '/donate/blood' },
-  { label: 'Money Donation', href: '/donate/money' },
-  { label: 'Organ Donation', href: '/donate/organ' },
+  // { label: 'Blood Donation', href: '/donate/blood' },
+  // { label: 'Money Donation', href: '/donate/money' },
+  // { label: 'Organ Donation', href: '/donate/organ' },
 ]
 
 const Donate = () => (
